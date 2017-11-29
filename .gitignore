@@ -1,0 +1,4 @@
+.DS_Store
+*~
+#ignore all files in tmp directory
+tmp/
